@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=xcyltra&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=xcyltra&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=xcyltra&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
